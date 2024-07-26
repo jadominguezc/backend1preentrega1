@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Producto 2",
+    "description": "Descripcion de Producto 2",
+    "code": "P002",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "Categoria 2",
+    "thumbnails": [
+      "url1",
+      "url2"
+    ]
+  }
+]
